@@ -1,0 +1,11 @@
+C:\Users\natha\source\repos\Gestock\Gestock\bin\Debug\Gestock.exe.config
+C:\Users\natha\source\repos\Gestock\Gestock\bin\Debug\Gestock.exe
+C:\Users\natha\source\repos\Gestock\Gestock\bin\Debug\Gestock.pdb
+C:\Users\natha\source\repos\Gestock\Gestock\obj\Debug\Gestock.csprojResolveAssemblyReference.cache
+C:\Users\natha\source\repos\Gestock\Gestock\obj\Debug\Gestock.Form1.resources
+C:\Users\natha\source\repos\Gestock\Gestock\obj\Debug\Gestock.Properties.Resources.resources
+C:\Users\natha\source\repos\Gestock\Gestock\obj\Debug\Gestock.csproj.GenerateResource.Cache
+C:\Users\natha\source\repos\Gestock\Gestock\obj\Debug\Gestock.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Gestock\Gestock\obj\Debug\Gestock.exe
+C:\Users\natha\source\repos\Gestock\Gestock\obj\Debug\Gestock.pdb
+C:\Users\natha\source\repos\Gestock\Gestock\obj\Debug\Gestock.FormAccueil.resources
